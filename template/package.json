@@ -1,0 +1,18 @@
+{
+  "name": "<%= project %>",
+  "description": "<%= description %>",
+  "version": "<%= version %>",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-config-ali": "^4.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:<%= group %>/<%= project %>.git"
+  }
+}
